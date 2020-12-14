@@ -1,0 +1,18 @@
+    <resources>
+        <string name="app_name">RoomRecyclerClickCheckbox</string>
+
+        <string name="message_dialog">"Confirm dialog"</string>
+        <string name="message_delete_question">"Do you want to delete record?"</string>
+        <string name="message_yes">"Yes"</string>
+        <string name="message_no">"No"</string>
+        <string name="message_delete">"Delete"</string>
+        <string name="message_cancel">"Canceled!"</string>
+        <string name="message_error">"Error!"</string>
+
+
+        <string name="enter_name">Enter Name</string>
+        <string name="enter_number">Enter Number</string>
+        <string name="add">Add</string>
+        <string name="search">Search contact</string>
+        <string name="add_contact">Add contact</string>
+    </resources>
